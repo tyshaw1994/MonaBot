@@ -1,0 +1,42 @@
+[
+  {
+    "UserId": 168135566435549185,
+    "ChannelId": 335514075784282114,
+    "ChannelUserId": "09636dd5-ecfb-4996-9e10-c0093ccc43a5"
+  },
+  {
+    "UserId": 168135566435549185,
+    "ChannelId": 332529570525872128,
+    "ChannelUserId": "66121489-17e7-48b1-ab81-c58023958ca7"
+  },
+  {
+    "UserId": 168135566435549185,
+    "ChannelId": 330836018599034881,
+    "ChannelUserId": "c7e90f9e-113c-43d5-9ea1-d3ce7086f48d"
+  },
+  {
+    "UserId": 168135566435549185,
+    "ChannelId": 168135661600112641,
+    "ChannelUserId": "b86ffca1-bb5f-4170-8e10-84fa26ee78c6"
+  },
+  {
+    "UserId": 168135566435549185,
+    "ChannelId": 171669597005545474,
+    "ChannelUserId": "a3eb04a8-ab21-4a88-8c61-b9e654eed758"
+  },
+  {
+    "UserId": 316341920563593226,
+    "ChannelId": 168135661600112641,
+    "ChannelUserId": "aa1ad2d4-ed8f-48d2-b458-e5fad1636477"
+  },
+  {
+    "UserId": 145378858697359360,
+    "ChannelId": 168135661600112641,
+    "ChannelUserId": "c8cff9e6-9549-41b7-b4f7-a7780e4a1889"
+  },
+  {
+    "UserId": 244628929183350785,
+    "ChannelId": 168135661600112641,
+    "ChannelUserId": "980a57a1-67eb-4ba6-ac27-01002bb88f1c"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "LastOnlineTime": "2017-07-14T20:50:02.0733058Z",
+    "NextBedtime": "2017-07-15T03:42:28.8106987Z",
+    "UserId": 168135566435549185,
+    "UserName": "Sora",
+    "LastStatus": 1
+  },
+  {
+    "LastOnlineTime": "2017-07-14T20:50:16.1786456Z",
+    "NextBedtime": "2017-07-15T03:45:08.5820782Z",
+    "UserId": 316341920563593226,
+    "UserName": "MagnaSonic3000",
+    "LastStatus": 1
+  },
+  {
+    "LastOnlineTime": "2017-07-14T20:20:00.9391889Z",
+    "NextBedtime": "2017-07-15T03:20:00.9391889Z",
+    "UserId": 145378858697359360,
+    "UserName": "Nick",
+    "LastStatus": 0
+  },
+  {
+    "LastOnlineTime": "2017-07-14T20:20:53.8968473Z",
+    "NextBedtime": "0001-01-01T00:00:00",
+    "UserId": 244628929183350785,
+    "UserName": "Ultra",
+    "LastStatus": 4
+  }
+]

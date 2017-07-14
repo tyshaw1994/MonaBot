@@ -1,0 +1,22 @@
+Discord Bot User/Channel pairing POC
+
+-All information stored in JSON files because setting up a database is too much work right now (might do in future for fun)
+-Files for User, Channel, ChannelUser
+
+User.json:
++Username
++UserId
++Easily modifiable "Last online"
++Any relevant SocketGuildUser data members
+
+Channel.json:
++ChannelIds
+
+ChannelUser.json:
++UserId
++ChannelId
++ChannelUserId
+
+CURRENT TODO:
+-Create DataManagement class for all data managing
+-Create a GetData function to get certain User data from storage
